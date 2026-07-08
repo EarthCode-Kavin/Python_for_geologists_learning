@@ -2,13 +2,6 @@
 
 A complete companion package for the open-source course
 
-> ```text
-> Gomez, K. A. (2026). python_for_geologists (v1.0) [Computer software].
-> GitHub. https://github.com/kevinalexandr19/python_for_geologists
-> ```
->
-> Star ⭐ the original repo to support it and get notified when new chapters are released.
-
 ## Contents
 
 ```
