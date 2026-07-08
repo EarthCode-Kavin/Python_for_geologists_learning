@@ -94,7 +94,3 @@ conda install -c conda-forge pygmt        # lesson 20, GMT is a C library
 6. Work through the **`lessons/`** notebooks in order (01 → 20); each ends with ✏️ exercises.
 7. Keep **`docs/03_CHEAT_SHEET.md`** open while you work.
 
-Or try it instantly in the browser (nothing to install):
-https://kevinalexandr19.github.io/python_for_geologists/lab/index.html?path=0_start.ipynb
-
-*Course content © Kevin Alexander Gomez (see the repository's LICENSE).*
