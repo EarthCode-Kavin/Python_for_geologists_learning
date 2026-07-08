@@ -1,15 +1,7 @@
 # Python for Geologists — Student & Researcher Learning Package
 
 A complete companion package for the open-source course
-**[python_for_geologists](https://github.com/kevinalexandr19/python_for_geologists)**
-by Kevin Alexander Gomez (v1.0, January 2026).
 
-> **Attribution / citation.** This repository is an independent *learning companion*.
-> The original course — its idea, structure and teaching content — is
-> **[kevinalexandr19/python_for_geologists](https://github.com/kevinalexandr19/python_for_geologists)**,
-> © Kevin Alexander Gomez, distributed under the license in that repository.
-> If you use or share material from the course, cite the original repo:
->
 > ```text
 > Gomez, K. A. (2026). python_for_geologists (v1.0) [Computer software].
 > GitHub. https://github.com/kevinalexandr19/python_for_geologists
@@ -108,12 +100,6 @@ conda install -c conda-forge pygmt        # lesson 20, GMT is a C library
 5. Alongside chapters 2a–2c, study **`notebooks/01_geology_data_workflow.ipynb`** and do its ✏️ challenges.
 6. Work through the **`lessons/`** notebooks in order (01 → 20); each ends with ✏️ exercises.
 7. Keep **`docs/03_CHEAT_SHEET.md`** open while you work.
-
-## Get the course itself
-
-```bash
-git clone https://github.com/kevinalexandr19/python_for_geologists.git
-```
 
 Or try it instantly in the browser (nothing to install):
 https://kevinalexandr19.github.io/python_for_geologists/lab/index.html?path=0_start.ipynb
